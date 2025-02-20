@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 683.9 225.9">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: url(#Dégradé_sans_nom_7);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-2" d="M201.8,6.1l-57,145.5-23.3-123c-2.1-12.4-12.6-21.5-25.2-21.8H2.8l-1.4,5.6c18.8,3.6,37,9.8,54.1,18.3,7.3,3.2,12.2,10.3,12.6,18.3l44.2,170h58.3L260.1,6.1h-58.3ZM283.3,6.1l-45.7,213h54.8L338.1,6.1h-54.8ZM599.6,64.5l16.9,80.1h-45.6l28.8-80.1ZM591.2,6.1c-10.2-.2-19.5,6-23.3,15.5l-82.9,197.5h57.6l11.2-31.6h71.7l6.3,31.6h50.6L638.2,6.1h-47.1ZM353.7,72.9c-.7,30.9,27.4,47.8,47.8,57.6,21.8,10.5,28.8,16.9,28.8,26,0,14.8-16.9,21.1-33,21.1-19.8.4-39.4-4.2-56.9-13.3l-9.8,47.1c19.5,7.6,40.2,11.4,61.1,11.2,57.6,0,95.5-28.8,95.5-73.1.7-56.2-78-59-77.3-84.3,0-7.7,7.7-16.2,23.3-17.6,18.6-2.1,37.4,1.3,54.1,9.8l9.9-45c-16.4-6.1-33.7-9.2-51.2-9.1-53.4-.7-92.1,28.1-92.1,69.6h0Z"/>
+    </clipPath>
+    <linearGradient id="Dégradé_sans_nom_7" data-name="Dégradé sans nom 7" x1="-297.3" y1="466.7" x2="-297.1" y2="466.7" gradientTransform="translate(6335.1 4521.1) scale(29.2 -9.4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#241f5d"/>
+      <stop offset="1" stop-color="#034ea1"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-1">
+    <g id="Groupe_275" data-name="Groupe 275">
+      <rect class="cls-3" x="1.5" y="2.6" width="681.1" height="220"/>
+    </g>
+  </g>
+</svg>

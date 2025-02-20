@@ -1,0 +1,7 @@
+{
+  "/products/:id": "/product-detail/:id",
+  "/products/:id/associations": "/associations/:id",
+  "/products/:id/offers": "/offers/:id",
+  "/products/:id/variations": "/variations/:id",
+  "/products/:id/prices": "/prices/:id"
+}
